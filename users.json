@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "firstName": "Ivan",
+        "secondName": "Ivanov",
+        "age": 30,
+        "city": "Piter"
+    },
+    {
+        "id": 2,
+        "firstName": "Sergej",
+        "secondName": "Petrov",
+        "age": 28,
+        "city": "Samara"
+    },
+    {
+        "id": 4,
+        "firstName": "Vasilij",
+        "secondName": "Savchenkov",
+        "age": 47,
+        "city": "Nefteugansk"
+    },
+    {
+        "firstName": "Victor",
+        "secondName": "Dajneko",
+        "age": 39,
+        "city": "Balashikha",
+        "id": 5
+    },
+    {
+        "firstName": "Tatjana",
+        "secondName": "Markova",
+        "age": 25,
+        "city": "Moscow",
+        "id": 6
+    },
+    {
+        "firstName": "Michael",
+        "secondName": "Smith",
+        "age": 40,
+        "city": "London",
+        "id": 7
+    },
+    {
+        "firstName": "Emily",
+        "secondName": "Brown",
+        "age": 27,
+        "city": "Paris",
+        "id": 8
+    },
+    {
+        "firstName": "Max",
+        "secondName": "Kowalski",
+        "age": 32,
+        "city": "Berlin",
+        "id": 9
+    },
+    {
+        "firstName": "Sophia",
+        "secondName": "Müller",
+        "age": 31,
+        "city": "Berlin",
+        "id": 10
+    }
+]
